@@ -1,7 +1,7 @@
 ---
-title: Example Case Study
-author: Example Author <ExampleUsername>
-tags: example, case study, platform
+title: AWS CodeWhisperer case study
+author: Ole Martin Keiseraas <olemartinkeis>
+tags: AWS, case study, AI, CodeWhisperer
 ---
 
 ## Introduction
